@@ -1,0 +1,18 @@
+.car {
+   display: flex;
+   justify-content: center;
+}
+.content {
+    max-width: 800px; 
+
+}
+
+p {
+    color: #47bd00;
+    font-weight: 900;
+    font-size: 33px;}
+
+img {
+    width: 500px;
+    height: 500px;
+}
